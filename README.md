@@ -1,4 +1,4 @@
 # todolist
 
-- based on https://pythonistaplanet.com/to-do-list-app-using-django/
+based on https://pythonistaplanet.com/to-do-list-app-using-django/
 - added css
